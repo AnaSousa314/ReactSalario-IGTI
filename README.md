@@ -10,4 +10,4 @@
 <img src="React_Salario.png">
 
 ## Funcionamento da aplicação
-<img src="React-Salario.mp4">
+<img src="https://giphy.com/gifs/vQpcTaylbZVSPdfKr4/html5">
