@@ -10,4 +10,4 @@
 <img src="React_Salario.png">
 
 ## Funcionamento da aplicação
-<video src="https://giphy.com/gifs/vQpcTaylbZVSPdfKr4/html5">
+<video src="https://giphy.com/gifs/vQpcTaylbZVSPdfKr4/html5" width="426" height="240">
