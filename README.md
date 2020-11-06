@@ -10,4 +10,4 @@
 <img src="React_Salario.png">
 
 ## Funcionamento da aplicação
-<video src="https://giphy.com/gifs/vQpcTaylbZVSPdfKr4/html5" width="426" height="240">
+<div style="width:100%;height:0;padding-bottom:54%;position:relative;"><iframe src="https://giphy.com/embed/vQpcTaylbZVSPdfKr4" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/vQpcTaylbZVSPdfKr4">via GIPHY</a></p>
