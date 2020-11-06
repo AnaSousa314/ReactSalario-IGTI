@@ -10,4 +10,4 @@
 <img src="React_Salario.png">
 
 ## Funcionamento da aplicação
-<img src="React-Salario.gif" width="700px">
+<img src="React-Salario-maker.gif" width="700px">
