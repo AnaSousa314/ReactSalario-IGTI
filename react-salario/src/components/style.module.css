@@ -1,0 +1,18 @@
+.calcs{
+    display: inline-flex;
+    flex-wrap: wrap;
+    padding-right: 40px;
+    padding-top: 20px;
+    
+}
+
+.corpo{
+    padding: 100px;
+    /* border: 1px solid; */
+    margin: 150px;
+}
+
+.texto{
+    text-align: center;
+}
+
