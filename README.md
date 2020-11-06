@@ -10,4 +10,4 @@
 <img src="React_Salario.png">
 
 ## Funcionamento da aplicação
-<img src="React-Salario-IGTI.mp4">
+<video src="React-Salario-IGTI.mp4">
